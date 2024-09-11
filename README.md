@@ -9,3 +9,8 @@ This project involves the design and development of an autonomous robot capable 
 * **Ball Collection Mechanism**: A servo-driven mechanism for collecting tennis balls.  
 
 The project focuses on integrating hardware (LEGO, Raspberry Pi, Arduino) and software (Python, OpenCV) to create a fully autonomous system. We designed the Lego chassis to ensure it was capable of manoeuvring through the pathways of the maze without getting stuck and implemented a finite state machine (FSM) to manage the robot's behaviours effectively for wall following. 
+
+## Contributors
+* Ratnesh Yadav
+* Sadjad Mahnan
+* Yue Zhu  
